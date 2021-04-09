@@ -3,7 +3,7 @@ main:
   - title: "CMIP6"
     url: https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6
   - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
