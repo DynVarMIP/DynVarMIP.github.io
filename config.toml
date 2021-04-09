@@ -1,7 +1,7 @@
 title = "DynVarMIP: The Dynamics and Variability Model Intercomparison Project"
 baseURL = "https://DynVarMIP.github.io"
 languageCode = "en-us"
-theme = "gohugo-theme-ananke"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 themesDir = "../.."
 resourceDir = "../resources"
 
