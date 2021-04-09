@@ -1,46 +1,56 @@
-title = "DynVarMIP: The Dynamics and Variability Model Intercomparison Project"
-baseURL = "https://DynVarMIP.github.io"
+baseURL = "http://datawaveproject.github.io/"
 languageCode = "en-us"
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
-resourceDir = "../resources"
-
-DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
-enableRobotsTXT = true
-
-[languages]
-  [languages.en]
-    title = "My blog"
-    weight = 1
-    contentDir = "content/en"
-  [languages.fr]
-    title = "Mon blogue"
-    weight = 2
-    contentDir = "content/fr"
-
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
+title = "The DataWave Project"
+theme="ananke"
 
 [params]
-  favicon = ""
-  site_logo = ""
-  description = "The homepage for the DynVarMIP within the CMIP6."
-  facebook = ""
-  twitter = ""
-  instagram = ""
-  youtube = ""
-  github = "DynVarMIP"
-  gitlab = ""
-  linkedin = ""
-  mastodon = ""
-  slack = ""
-  stackoverflow = ""
-  rss = ""
-  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
-  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
-  recent_posts_number = 2
+  # In most cases you will only want to use either one of these. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
+  google_analytics_id = "G-C7R59RGNK9"
+  google_tag_manager_id = ""
+  featured_image = '/images/gravity_waves_big.jpg'
+
+ [params.jobs]
+    summary_truncate = 12  # How many characters to include in the summary of the team bios (large layout) before truncating
+
+[params.Single]
+featured_image = '/images/gravity_waves_big.jpg'
+
+
+
+[menu]
+  # Main Menu
+  #[[menu.main]]
+  #  name = "Objectives"
+  #  url = "/objectives/"
+  #    weight = 1
+  # Footer Menu
+
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+      weight = 1
+
+  [[menu.main]]
+      name = "Team"
+      url = "/Team/"
+      weight = 2
+
+  [[menu.main]]
+      name = "Jobs"
+      url = "/Jobs/"
+      weight = 3
+
+  [[menu.main]]
+      name = "Background"
+      url = "/Background/"
+      weight = 4
+
+  [[menu.main]]
+      name = "Publications"
+      url = "/Publications/"
+      weight = 4
+
+  #[[menu.footer]]
+  #  name = "Contact"
+  #  url = "/contact/"
+  #    weight = 2
