@@ -1,6 +1,6 @@
 ---
-permalink: /research/
-title: "Research"
+permalink: /data/
+title: "Data"
 author_profile: true
 redirect_from: 
   - /md/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-> What does the natural variability of the atmosphere tell us about the Earth's climate and how it will respond to anthropogenic forcing?
+> DynVarMIP Data....
 
 > How can simplified models help us understand the dynamics of the atmosphere?
 
