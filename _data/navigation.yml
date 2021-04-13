@@ -2,6 +2,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Publications"
+    url: /publications/
   - title: "CMIP6"
     url: https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6
   # - title: "Sample Posts"
