@@ -4,8 +4,8 @@ main:
   - title: "News"
     url: /news/
 
-  - title: "Group"
-    url: /group/
+  - title: "Participants"
+    url: /participants/
 
   - title: "Data"
     url: /data/
