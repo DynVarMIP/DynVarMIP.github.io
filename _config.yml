@@ -78,12 +78,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ed Gerber"
+  name             : "DynVarMIP"
   avatar           : "profile.png"
-  bio              : "Professor at the <a href=https://cims.nyu.edu/>Courant Institute</a>"
-  location         : New York NY <a href=https://www.nyu.edu/>New York University</a> 
+  bio              : "A <a href=https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6>CMIP6</a> endorsed MIP"
+  location         :  
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=gWnRrCMAAAAJ&hl=en"
+  googlescholar    : 
   email            : "epg2@nyu.edu"
   uri              :
   bitbucket        :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "edwinpgerber"
+  github           : "DynVarMIP"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0002-6010-6638"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@climate_wonk"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
