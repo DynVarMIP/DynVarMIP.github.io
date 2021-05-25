@@ -15,7 +15,7 @@ The DynVarMIP collected enhanced diagnostics from Coupled Global Atmosphere, Oce
 
 ## Experiments
 
-DynVarMIP targets the [DECK](https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6) experiments (AMIP, Pre-industrial control, abrupt4xCO2 and 1pctCO2), the CMIP6 historical and the ScenarioMIP RCP8.5 experiments, as well as selected experiments within VolMIP, AeroChemMIP, and HiResMIP, where there is natural overlap in scientific interest. 
+DynVarMIP targets the [DECK](https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6) experiments (AMIP, Pre-industrial control, abrupt4xCO2 and 1pctCO2), the CMIP6 historical, the high emission [ScenarioMIP](https://www.cesm.ucar.edu/projects/CMIP6/ScenarioMIP/) SSP8.5 experiments, and three [Cloud Feedback Model Inctercomparison Project (CFMIP)](https://www.cfmip.org/) experiments: amip-4xCO2, amipt-future4K, and amip-p4K.  Data was also requested for select experiments within [VolMIP](http://www.volmip.org/), [AerChemMIP](https://wiki.met.no/aerocom/aerchemmip/start), and [HiResMIP](https://hrcm.ceda.ac.uk/research/cmip6-highresmip/), where there issce overlap in scientific interest. 
 
 ## Diagnostics
 
@@ -23,3 +23,6 @@ Dynvar has established a set of diagnostics  [(Gerber and Manzini, 2016)](https:
 
 Modelling centers are providing the DynVarMIP diagnostics, via CMIP6.  This portion of the site is under construction, and we hope to provide more information soon.
 
+## Data Availability
+
+DynVarMIP data are available as part of the CMIP6 dataset via the [Earth System Grid Federation (ESGF) data portals](https://esgf-node.llnl.gov/search/cmip6/). The [information here list data that is currently available, based on an analysis of the ESGF in May 2021](https://dynvarmip.github.io/files/DynVarMIP-Data-Availability-May2021.pdf). 
