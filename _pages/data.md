@@ -21,7 +21,6 @@ DynVarMIP targets the [DECK](https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6) 
 
 Dynvar has established a set of diagnostics  [(Gerber and Manzini, 2016)](https://gmd.copernicus.org/articles/9/3413/2016/) to enable a mechanistic approach to confront model biases and understand the underlying causes behind circulation changes.
 
-Modelling centers are providing the DynVarMIP diagnostics, via CMIP6.  This portion of the site is under construction, and we hope to provide more information soon.
 
 ## Data Availability
 
