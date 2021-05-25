@@ -15,7 +15,7 @@ The DynVarMIP collected enhanced diagnostics from Coupled Global Atmosphere, Oce
 
 ## Experiments
 
-DynVarMIP targets the [DECK](https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6) experiments (AMIP, Pre-industrial control, abrupt4xCO2 and 1pctCO2), the CMIP6 historical, the high emission [ScenarioMIP](https://www.cesm.ucar.edu/projects/CMIP6/ScenarioMIP/) SSP8.5 experiments, and three [Cloud Feedback Model Inctercomparison Project (CFMIP)](https://www.cfmip.org/) experiments: amip-4xCO2, amipt-future4K, and amip-p4K.  Data was also requested for select experiments within [VolMIP](http://www.volmip.org/), [AerChemMIP](https://wiki.met.no/aerocom/aerchemmip/start), and [HiResMIP](https://hrcm.ceda.ac.uk/research/cmip6-highresmip/), where there issce overlap in scientific interest. 
+DynVarMIP targets the [DECK](https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6) experiments (AMIP, Pre-industrial control, abrupt4xCO2 and 1pctCO2), the CMIP6 historical, the high emission [ScenarioMIP](https://www.cesm.ucar.edu/projects/CMIP6/ScenarioMIP/) SSP8.5 experiments, and three [Cloud Feedback Model Inctercomparison Project (CFMIP)](https://www.cfmip.org/) experiments: amip-4xCO2, amipt-future4K, and amip-p4K.  Data was also requested for select experiments within [VolMIP](http://www.volmip.org/), [AerChemMIP](https://wiki.met.no/aerocom/aerchemmip/start), and [HiResMIP](https://hrcm.ceda.ac.uk/research/cmip6-highresmip/), where there is overlap in scientific interest. 
 
 ## Diagnostics
 
