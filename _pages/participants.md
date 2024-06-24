@@ -7,8 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 
-This page is also under development.  Stay tuned for updates.
-
 ## Participating Modeling Centers
 
 * CanESM
