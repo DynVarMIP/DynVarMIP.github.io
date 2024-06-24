@@ -23,7 +23,12 @@ Rather than proposing new experiments, the DynVarMIP provides additional model o
 * How does the stratosphere affect climate variability on intra-seasonal, inter-annual and decadal timescales?
 
 
+> DynVarMIP Impacts
 
+* The DynVarMIP data set allowed the systematic evaluation of stratosphere-troposphere coupling in the CMIP6 data set, including [Sudden Stratospheric Warmings](https://dynvarmip.github.io/publication/2020-02-28) and [trends in stratosphere-troposphere circulation changes](https://dynvarmip.github.io/publication/2022-09-06).
 
+* DynVarMIP allowed a more comprehensive assessment of stratospheric processes in the CMIP6, including the [Brewer Dobson Circulation](https://dynvarmip.github.io/publication/2021-09-10) and [stratospheric water vapor](https://dynvarmip.github.io/publication/2023-07-03). 
+
+* The DynVarMIP data protocol played a role in the development of other modeling efforts, including the [Quasi Biennial Oscillation Initiative (QBOi)](https://dynvarmip.github.io/publication/2018-03-16), [specified dynamics experiments in the Chemistry Climate Model Initiative](https://dynvarmip.github.io/publication/2020-03-31), and the [Stratospheric Nudging and Predictable Sufrace Impacts (SNAPSI) experiments](https://dynvarmip.github.io/publication/2022-07-04).
 
 
